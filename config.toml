@@ -12,9 +12,10 @@ canonifyurls = true
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+googleAnalytics = "UA-84988878-1"
 
 [params]
-    author = "Thomas Santerre"
+    author = "Thomas Santerre" 
     description = "My personal web page, still a WIP"
     keywords = "blog,developer,personal"
     info = "Full Stack Developer and Cat enthusiast"
@@ -30,6 +31,7 @@ pygmentscodefencesguesssyntax = true
     # commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
+    math = true
 
     # Use inverted colors
     inverted = false
