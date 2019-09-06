@@ -70,3 +70,27 @@ googleAnalytics = "UA-84988878-1"
     icon = "fas fa-envelope"
     weight = 5
     url = "mailto:thomas@santerre.xyz"
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2
+        url = "/posts/"
+
+        [[languages.en.menu.main]]
+        name = "Projects"
+        weight = 3
+        url = "/projects/"
+
+        [[languages.en.menu.main]]
+        name = "Contact me"
+        weight = 5
+        url = "/contact/"
