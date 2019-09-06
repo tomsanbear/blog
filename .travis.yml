@@ -20,3 +20,4 @@ deploy:
   name: "tomsanbear-bot"
   on:
     branch: master
+  fqdn: santerre.xyz
