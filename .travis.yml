@@ -21,3 +21,4 @@ deploy:
   on:
     branch: master
   fqdn: santerre.xyz
+  keep_history: true
