@@ -20,7 +20,6 @@ googleAnalytics = "UA-84988878-1"
     keywords = "blog,developer,personal"
     info = "Full Stack Developer and Cat enthusiast"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Still a work in progress, come back later, or just follow my git commits."
 
     dateformat = "January 2, 2006"
 
