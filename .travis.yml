@@ -1,10 +1,6 @@
-language: go
-
-go:
-  - "1.14" # This uses automatically the latest version of go
-
 install:
-  - go get github.com/gohugoio/hugo # This provides the latest version of Hugo to Travis CI
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_0.73.0_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.73.0_Linux-64bit.deb
 
 script:
   - hugo -t hugo-coder # This commands builds your website on travis
