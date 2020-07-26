@@ -91,6 +91,6 @@ googleAnalytics = "UA-84988878-1"
         url = "/projects/"
 
         [[languages.en.menu.main]]
-        name = "Contact me"
+        name = "Currently Reading"
         weight = 5
-        url = "/contact/"
+        url = "/books/"
